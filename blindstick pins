@@ -1,0 +1,16 @@
+Ultrasonic Sonic sensor:
+
+vcc- pin 2
+
+GND- pin 6
+
+echo- 11
+
+trigger- 13
+
+
+Buzzer:
+
+Vcc- pin 15
+
+GND- 9
